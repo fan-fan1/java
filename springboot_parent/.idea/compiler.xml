@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_05_quickstart" />
+        <module name="springboot_03_logger" />
+        <module name="springboot_02_json" />
+        <module name="springboot_12_transaction" />
+        <module name="springboot_10_aop" />
+        <module name="springboot_07_swagger" />
+        <module name="springboot_01_hello" />
+        <module name="springboot_04_config" />
+        <module name="springboot_09_exception" />
+        <module name="springboot_06_mvc" />
+        <module name="springboot_08_thymeleaf" />
+        <module name="springboot_11_mybatis" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

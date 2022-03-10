@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "url",
+      "type": "com.sckj.springboot.config.MicroServiceUrl",
+      "sourceType": "com.sckj.springboot.config.MicroServiceUrl"
+    }
+  ],
+  "properties": [
+    {
+      "name": "url.order-url",
+      "type": "java.lang.String",
+      "sourceType": "com.sckj.springboot.config.MicroServiceUrl"
+    },
+    {
+      "name": "url.shopping-url",
+      "type": "java.lang.String",
+      "sourceType": "com.sckj.springboot.config.MicroServiceUrl"
+    },
+    {
+      "name": "url.user-url",
+      "type": "java.lang.String",
+      "sourceType": "com.sckj.springboot.config.MicroServiceUrl"
+    }
+  ],
+  "hints": []
+}

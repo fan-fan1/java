@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.sckj.springboot.config.Person",
+      "sourceType": "com.sckj.springboot.config.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sckj.springboot.config.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.sckj.springboot.config.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.sckj.springboot.config.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.sckj.springboot.config.Person"
+    }
+  ],
+  "hints": []
+}
